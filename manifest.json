@@ -1,0 +1,16 @@
+{
+  "short_name": "Heorhii Suslov",
+  "name": "Design Portfolio of Heorhii Suslov",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111111",
+  "background_color": "#111111"
+}
